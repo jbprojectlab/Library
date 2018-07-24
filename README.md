@@ -11,8 +11,8 @@ We recommend you *clone* (without forking) this repo and pull as changes come in
 - [📺 Additional video outlining Github workflow when pairing on workshops](http://www.youtube.com/watch?v=VJHyW8OmSaI)
 - [📖 Fullstack student / alumni blogs list](https://github.com/FullstackAcademy/student-blogs)
 
-## [🥚 Foundations](https://github.com/FullstackAcademy/foundations-solutions)
+---
 
-## [🏁 Checkpoints](checkpoints)
-
-## [🐛 Junior Phase](junior-phase)
+- [🥚 Foundations](https://github.com/FullstackAcademy/foundations-solutions)
+- [🏁 Checkpoints](checkpoints)
+- [🐛 Junior Phase](junior-phase)

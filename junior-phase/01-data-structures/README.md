@@ -6,7 +6,7 @@
 
 Topic | Slides | Lecture | Workshop | Solution | Review
 ------|---------|--------|----------|----------|-------
-Stacks, Queues, DSs, ADTs | [🖼️][ds-1a] | [📺][ds-1b] | - | — | —
+Stacks, Queues, DSs, ADTs | [🖼️][ds-1a] | [📺][ds-1b] | — | — | —
 Linked Lists | [🖼️][ds-2a] | [📺][ds-2b] | [🤝][ds-2c] | [👾][ds-2d] | [📺][ds-2e]
 Binary Search Trees | [🖼️][ds-3a] | [📺][ds-3b] | [🤝][ds-3c] | [👾][ds-3d] | [📺][ds-3e]
 

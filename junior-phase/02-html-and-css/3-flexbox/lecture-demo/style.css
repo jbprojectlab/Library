@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  /*flex-wrap: wrap;*/
+}
+
+.item {
+  height: 100px;
+  background-color: yellow;
+  margin: 1em;
+  flex: 1 0 100px;
+}
+
+.special.item {
+}
+
+@media (max-width: 1000px) and (min-width: 500px) {
+  body {
+    background-color: red;
+  }
+}

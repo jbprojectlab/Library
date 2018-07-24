@@ -4,3 +4,5 @@
 
 - [Orientation](00-orientation)
 - [Data Structures](01-data-structures)
+
+## Day 2: [HTML and CSS](02-html-and-css)

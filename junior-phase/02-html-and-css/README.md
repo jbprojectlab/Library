@@ -12,6 +12,6 @@ Flexbox | [🖼️][html-3a] | — | [🤝][html-3c] | — | —
 [html-1c]: http://css-dinner.fullstackacademy.com/
 [html-2a]: 2-box-diagramming/Intro%20To%20Boxing.pdf
 [html-2c]: https://learn.fullstackacademy.com/workshop/59b2d5c764d22d00044a07f6/landing
-[html-3a]: 3-flebox/Flexbox.pdf
+[html-3a]: 3-flexbox/Flexbox.pdf
 [html-3c]: https://learn.fullstackacademy.com/workshop/5a8c5b9d55e0900004d64308/landing
 

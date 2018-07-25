@@ -5,7 +5,7 @@
 ## Lesson
 
 Topic | Slides | Lecture | Workshop | Solution | Review
-:----:|:------:|:-------:|:--------:|:--------:|:-----:
+-----:|:------:|:-------:|:--------:|:--------:|:-----:
 Pair Programming | [🖼️][coll-1a] | [📺][coll-1b] | — | — | —
 Git | [🖼️][coll-2a] | [📺][coll-2b-1]ⁱ and [📺][coll-2b-2]ⁱ | [🔬][coll-2c-1] and [🤝][coll-2c-2] | — | —
 Debugging Prevention | [🖼️][coll-3a] | [📺][coll-3b] | [🔬][coll-3c] | — | —

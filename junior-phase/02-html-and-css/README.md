@@ -8,7 +8,7 @@
 ## Lesson
 
 Topic | Slides | Lecture | Workshop | Solution | Review
-:----:|:------:|:-------:|:--------:|:--------:|:-----:
+-----:|:------:|:-------:|:--------:|:--------:|:-----:
 HTML and CSS Intro | [🖼️][html-1a] | [📺][html-1b] | [🔬][html-1c] | — | —
 Box Diagramming | [🖼️][html-2a] | [📺][html-2b] | [🤝][html-2c] | — | —
 Flexbox and Responsive | [🖼️][html-3a] | [📺][html-3b-1] and [📺][html-3b-2] | [🤝][html-3c] | [👾][html-3d] | [📺][html-3e]

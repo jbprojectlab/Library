@@ -5,7 +5,7 @@
 ## Lesson
 
 Topic | Slides | Lecture | Workshop | Solution | Review
-:----:|:------:|:-------:|:--------:|:--------:|:-----:
+-----:|:------:|:-------:|:--------:|:--------:|:-----:
 Intro to the DOM | [🖼️][dom-1a] | — | [🔬][dom-1c-1] and [🤝][dom-1c-2] | — | —
 Event Listeners and Handlers | [🖼️][dom-2a] | — | [🔬][dom-2c-1] and [🤝][dom-2c-2] | — | —
 

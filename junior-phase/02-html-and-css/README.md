@@ -31,3 +31,4 @@ Flexbox and Responsive | [🖼️][html-3a] | [📺][html-3b-1] and [📺][html-
 ## Q & A
 
 - [📖 Notes](q-and-a-notes.md)
+- [📺 Recording](https://youtu.be/Od1byqF8wbQ)

@@ -14,5 +14,7 @@ We recommend you *clone* (without forking) this repo and pull as changes come in
 ---
 
 ### [🥚 Foundations](https://github.com/FullstackAcademy/foundations-solutions)
+
 ### [🏁 Checkpoints](checkpoints)
+
 ### [🐛 Junior Phase](junior-phase)

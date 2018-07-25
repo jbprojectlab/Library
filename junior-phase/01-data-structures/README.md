@@ -35,3 +35,8 @@ In addition to the review videos above...
 [ds-3c]: https://learn.fullstackacademy.com/workshop/5a4beca71e7a03000474c9fa/landing
 [ds-3d]: 3-binary-search-trees/PairExercise.BinarySearchTree
 [ds-3e]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmkvOhyAm1NUJ023D8PyaD-B
+
+## Q & A
+
+- [📖 Notes](q-and-a-notes.md)
+- [📺 Recording](https://youtu.be/ox6zYpe6Xwc)

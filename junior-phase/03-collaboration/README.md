@@ -21,3 +21,5 @@ Unconscious Bias | [🖼️][coll-5a] | — | — | — | —
 [coll-4a]: 4-debugging-detection-diagnosis-treatment/Debugging%20Detection%20Diagnosis%20and%20Treatment.pdf
 [coll-4c]: https://learn.fullstackacademy.com/workshop/5a95e2533272230004117953/landing
 [coll-5a]: 5-unconscious-bias/Unconscious%20Bias.pdf
+
+## Postwork: [📖 javascript debugging tips](javascript-debugging-tips.md)

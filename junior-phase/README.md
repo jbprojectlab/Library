@@ -10,3 +10,5 @@
 ## Day 2: [HTML and CSS](02-html-and-css)
 
 ## Day 3: [Collaboration](03-collaboration)
+
+## Day 4: [The DOM](04-dom)

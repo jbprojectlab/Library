@@ -3,7 +3,6 @@ const Loader = {
     const urlCount = urls.length;
     const loadedImages = [];
     let loadedCount = 0;
-
     urls.forEach((url, index) => {
       const image = new Image();
       image.onload = () => {

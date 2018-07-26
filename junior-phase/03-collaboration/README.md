@@ -31,3 +31,8 @@ Unconscious Bias | [🖼️][coll-5a] | — | — | — | —
 [coll-5a]: 5-unconscious-bias/Unconscious%20Bias.pdf
 
 ## Postwork: [📖 javascript debugging tips](javascript-debugging-tips.md)
+
+## Q & A
+
+- [📖 Notes](q-and-a-notes.md)
+- [📺 Recording](https://youtu.be/vqPNB1rWiOc)

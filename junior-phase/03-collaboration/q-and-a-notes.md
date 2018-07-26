@@ -10,7 +10,7 @@ Editor config in VS code: specify defaults / expected structure. For example, ta
 
 ## git branch and merge (with conflict)
 
-**Trees are upside down**
+**Cows are upside down**
 
 ## being able to commit certain parts of a file
 

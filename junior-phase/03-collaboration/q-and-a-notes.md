@@ -54,4 +54,6 @@ And if we go back to `odie` the text is still:
 
 ## being able to commit certain parts of a file
 
-Not as far as I know.
+~Not as far as I know.~
+
+Follow-up: yes! When `add`ing you can use the `--patch` flag with a filename and it'll open an interactive prompt where you can add certain parts of a file. [See here](https://stackoverflow.com/a/1085191/1470694).

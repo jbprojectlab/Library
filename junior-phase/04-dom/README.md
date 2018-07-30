@@ -23,3 +23,5 @@ Event Listeners and Handlers | [🖼️][dom-2a] | [📺][dom-2b] | [🔬][dom-2
 [dom-2e]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmlGmcCCcsf9os6lVu0l5kg-
 
 ## Postwork: the review videos above
+
+## Q & A: [📺 recording](https://youtu.be/wRskjbTy1dw)

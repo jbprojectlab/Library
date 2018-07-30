@@ -15,3 +15,4 @@
 ## Q & A
 
 - [📖 Notes](q-and-a-notes.md)
+- [📺 Recording](https://youtu.be/2whv3_egOIw)

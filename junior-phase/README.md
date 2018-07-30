@@ -17,5 +17,8 @@
 
 ## Day 6
 
+- [📺 Lecture: Week Two Preview](https://youtu.be/ClQGAeEyHuw)
 - [Algorithms and Analysis](06-algorithms-and-analysis)
-- [Client Server Architecture](07-client-server)
+- [Client Server Architecture Intro](07-client-server-intro)
+
+## Day 7: [Node and Express](08-node-and-express)

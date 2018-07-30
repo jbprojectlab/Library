@@ -9,3 +9,10 @@
 - [👾 Solution](00-foundations-final)
 - [📖 Q & A notes](00-foundations-final/q-and-a-notes.md)
 - [📺 Q & A recording](https://youtu.be/Ou6h3ib8uYo)
+
+## Week 1
+
+### Data Structures
+
+- [👾 Solution](01-data-structures)
+- [📖 Q & A notes](01-data-structures/q-and-a-notes.md)

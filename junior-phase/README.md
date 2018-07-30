@@ -14,3 +14,8 @@
 ## Day 4: [The DOM](04-dom)
 
 ## Day 5: [Game of Life](05-game-of-life)
+
+## Day 6
+
+- [Algorithms and Analysis](06-algorithms-and-analysis)
+- [Client Server Architecture](07-client-server)

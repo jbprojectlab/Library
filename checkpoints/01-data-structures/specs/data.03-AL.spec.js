@@ -30,7 +30,7 @@ describe('An association list', function () {
     expect(alist.get('color')).toBe('blue');
   });
 
-  it('can set multiple key-val pairs', function () {
+  fit('can set multiple key-val pairs', function () {
     alist
     .set('color', 'white')
     .set('name', 'Saruman')

@@ -93,18 +93,23 @@ class ListNode {
 class Alist {
   // Alist constructor function
   constructor () {
-    // your code here
+    this.head = null;
   }
 
   // Alist.prototype.set
   set (key, value) {
-    // your code here
+    const node = new AlistNode(key, value, this.head);
+    this.head = node;
     return this; // for chaining; do not edit
   }
 
   // Alist.prototype.get
   get (key) {
-    // your code here
+    for (let currentNode = this.head; currentNode !== null; currentNode = currentNode.next) {
+      if (currentNode.key === key) {
+        return currentNode.value;
+      }
+    }
   }
 }
 

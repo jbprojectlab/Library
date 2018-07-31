@@ -18,3 +18,5 @@ We recommend you *clone* (without forking) this repo and pull as changes come in
 ### [🏁 Checkpoints](checkpoints)
 
 ### [🐛 Junior Phase](junior-phase)
+
+### [💾 CS Saturday](cs-saturday)

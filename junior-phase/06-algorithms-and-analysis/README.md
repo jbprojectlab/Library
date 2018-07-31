@@ -37,3 +37,7 @@ In addition to the review videos above...
 - [📺 Visualization of merge sort (and comparison to quick sort)](https://youtu.be/es2T6KY45cA) (~5 minutes, low priority)
 - [🛠️ Tool to help visualize various algorithms and inputs](https://visualgo.net/en) (could spend any amount of time on this site, low priority)
 - [📖 Khan Academy: helpful explanation of Big O vs. Big Theta](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation) (~40 minutes for the whole lesson, low priority)
+
+## Q & A
+
+- [📖 Notes](q-and-a-notes.md)

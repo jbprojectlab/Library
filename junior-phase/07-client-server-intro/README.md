@@ -9,3 +9,7 @@
 - [🔬 Workshop](https://learn.fullstackacademy.com/workshop/59e52a5d2743230004846950/landing)
 
 ## Postwork: none
+
+## Q & A
+
+- [📖 Notes](q-and-a-notes.md)

@@ -22,3 +22,5 @@
 - [Client Server Architecture Intro](07-client-server-intro)
 
 ## Day 7: [Node and Express](08-node-and-express)
+
+## Day 8: [Databases and SQL](09-databases-and-sql)

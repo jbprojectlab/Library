@@ -20,3 +20,7 @@ Schema Design | [🖼️][db-3a] | [📺][db-3b] | [🤝][db-3c] | — | —
 [db-3b]: https://youtu.be/53tJrPY_30c
 [db-3c]: https://learn.fullstackacademy.com/workshop/572a619002a9a003007caa6a/landing
 
+## Postwork
+
+- [📖 Postgresql tutorial](http://www.postgresqltutorial.com/): sections 2 through 5, 9, and 13 (~3 hours, low priority)
+- [📖 Datacamp's free tutorial](https://www.datacamp.com/courses/intro-to-sql-for-data-science): all chapters—1 through 4 (~4 hours, low priority)

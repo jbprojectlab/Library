@@ -33,3 +33,4 @@ Express 201 | [🖼️][ne-4a] | [📺][ne-4b] | [🤝][ne-4c] | [👾][ne-4d] |
 ## Q & A
 
 - [📖 Notes](q-and-a-notes.md)
+- [📺 Recording](https://youtu.be/Q84RYi_jbA8)

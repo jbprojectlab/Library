@@ -1,6 +1,6 @@
 # Databases and SQL
 
-## Prework: [learndot](http://www.postgresqltutorial.com/) (sections 2 and 3) and / or (your choice) [datacamp's free tutorial](https://www.datacamp.com/courses/intro-to-sql-for-data-science) (chapters 1 and 2)
+## Prework: [postgresqltutorial](http://www.postgresqltutorial.com/) (sections 2 and 3) and / or (your choice) [datacamp's free tutorial](https://www.datacamp.com/courses/intro-to-sql-for-data-science) (chapters 1 and 2)
 
 ## Lesson
 

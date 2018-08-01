@@ -6,13 +6,15 @@
 
 Topic | Slides | Lecture | Workshop | Solution | Review
 -----:|:------:|:-------:|:--------:|:--------:|:-----:
-Intro to Databases and Postgres | [🖼️][db-1a] | — | [🔬][db-1c] | — | —
-SQL | [🖼️][db-2a] | — | [🔬][db-2c] | — | —
+Intro to Databases and Postgres | [🖼️][db-1a] | [📺][db-1b] | [🔬][db-1c] | — | —
+SQL | [🖼️][db-2a] | [📺][db-2b] | [🔬][db-2c] | — | —
 Schema Design | [🖼️][db-3a] | — | [🤝][db-3c] | — | —
 
 [db-1a]: 1-intro-to-databases-and-postgres/Intro%20to%20Databases%20and%20Postgres.pdf
+[db-1b]: https://youtu.be/8PVRj4A17i0
 [db-1c]: https://learn.fullstackacademy.com/workshop/5acf8b4bac104a0004dffaba/landing
 [db-2a]: 2-sql/SQL.pdf
+[db-2b]: https://youtu.be/_m2k3KEwNBI
 [db-2c]: https://learn.fullstackacademy.com/workshop/5a7cad46f6247500041e0d76/landing
 [db-3a]: 3-schema-design/Schema%20Design.pdf
 [db-3c]: https://learn.fullstackacademy.com/workshop/572a619002a9a003007caa6a/landing

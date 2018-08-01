@@ -20,3 +20,39 @@ Tasks:
 3. Create a delete button for each task that will take that task off the DOM!
   - No hints for you ;)
 */
+
+// get elements we'll need to manipulate elsewhere
+const taskForm = document.getElementById('form');
+const taskList = document.getElementById('list');
+
+// handle the submit event for the form
+taskForm.addEventListener('submit', (event) => {
+  // prevent the form submit event from triggering a POST request (and thus refreshing the page)
+  event.preventDefault();
+  // create a new task element
+  const taskElement = document.createElement('li');
+  // assign that new task element's text the form's input value
+  taskElement.innerText = taskForm.task.value;
+  // create a delete button element with text 'x'
+  const deleteButton = document.createElement('button');
+  deleteButton.innerText = 'x';
+  // add the delete button to the end of the task list element
+  taskElement.appendChild(deleteButton);
+  // add the task element to the DOM (as a child of the task list)
+  taskList.appendChild(taskElement);
+  // clear the input's value (so that a user can start typing the next task without any clutter)
+  taskForm.task.value = '';
+});
+
+// event delegation pattern
+taskList.addEventListener('click', (event) => {
+  // capture the element that was ACTUALLY clicked
+  const clickedElement = event.target;
+  if (clickedElement.tagName === 'LI') {
+    // toggle the clicked element's strike-through
+    clickedElement.classList.toggle('crossed-out');
+  } else if (clickedElement.tagName === 'BUTTON') {
+    // remove the list element from the DOM
+    clickedElement.parentElement.remove();
+  }
+});

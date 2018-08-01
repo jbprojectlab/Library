@@ -5,3 +5,7 @@ body {
 #list {
   list-style: none;
 }
+
+.crossed-out {
+  text-decoration: line-through;
+}

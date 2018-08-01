@@ -13,7 +13,10 @@
 
 ## Day 4: [The DOM](04-dom)
 
-## Day 5: [Game of Life](05-game-of-life)
+## Day 5
+
+- [Game of Life](05-game-of-life)
+- [Tiny Todo](extras/tinyTodoAssignment) (optional over-the-weekend assignment)
 
 ## Day 6
 

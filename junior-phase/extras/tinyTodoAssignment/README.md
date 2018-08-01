@@ -1,5 +1,7 @@
 ## Let's get #$%* done!
 
+[📺 Live review](https://youtu.be/1xR3RDd3yr4).
+
 This is a small, slightly-guided lab-like exercise to help you stretch your DOM manipulation muscles and explore forms and inputs.
 
 The end result should look something like this:

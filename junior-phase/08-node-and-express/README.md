@@ -29,3 +29,7 @@ Express 201 | [🖼️][ne-4a] | [📺][ne-4b] | [🤝][ne-4c] | [👾][ne-4d] |
 [ne-4e]: https://youtu.be/UZ5MO-5a2yI?t=25m7s
 
 ## Postwork: the review videos above
+
+## Q & A
+
+- [📖 Notes](q-and-a-notes.md)

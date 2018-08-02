@@ -28,3 +28,4 @@ Schema Design | [🖼️][db-3a] | [📺][db-3b] | [🤝][db-3c] | — | —
 ## Q & A
 
 - [📖 Notes](q-and-a-notes.md)
+- [📺 Recording](https://youtu.be/d7agB21qhbM)

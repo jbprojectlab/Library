@@ -1,0 +1,1 @@
+This is FILE B with some text in it. File A always tells the truth.

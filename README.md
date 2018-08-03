@@ -4,6 +4,8 @@ This is the place to be if you're looking for any slides, recorded videos, solut
 
 We recommend you *clone* (without forking) this repo and pull as changes come in. That way you can review any slides or solution code locally.
 
+[Our class constitution](constitution.md)
+
 ## 🛠️ Helpful Resources/Links
 
 - [📺 Pair programming tips](https://www.youtube.com/watch?v=rG_U12uqRhE)

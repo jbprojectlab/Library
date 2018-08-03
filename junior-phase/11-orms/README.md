@@ -5,7 +5,7 @@
 ## Lesson
 
 - [🖼️ Slides](Intro%20to%20ORMs.pdf)
-- 📺 Lecture (link not available yet)
+- [📺 Lecture](https://youtu.be/f_-lwraK5V0)
 - [🤝 Workshop](https://learn.fullstackacademy.com/workshop/5a68bdb4d749e900042aa7ee/landing)
-- 👾 Solution (link not available yet)
-- 📺 Review (link not available yet)
+- [👾 Solution](Solution.Wikistack1)
+- [📺 Review](https://youtu.be/YNLTfTBZY7A)

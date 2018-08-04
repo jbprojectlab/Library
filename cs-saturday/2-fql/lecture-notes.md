@@ -181,4 +181,26 @@ A car factory might be able to look up certain cars it produced by license plate
 
 So it makes sense "find by license" is a thing a factory can do, and that a car cannot do, so it should be a *class method*.
 
-It also makes sense that "accelerate" is a thing a car can do, and that a factory cannot od, so it should be an *instance method*.
+It also makes sense that "accelerate" is a thing a car can do, and that a factory cannot do, so it should be an *instance method*.
+
+## indexing
+
+What is indexing? Think about the index at the back of a textbook, which contains "values" (like "Charles Law") as lookoup words and these lookup words point to "indexes", namely page numbers.
+
+An index in databases allows certain queries to be executed more quickly. The index ia a *separate data structure* stored in parallel with the tables / rows. That index needs to be created but only once—and then any future queries that can use it may be significantly faster.
+
+To create an index, we need to choose a table to index AND a column to index by. We then create an index table, store every row value for that column as a key and that row's primary key as a value.
+
+To use an index, in our querying we need to detect whether any criteria (for `where`) match any index tables we have. If so, we should sart our query by limiting our search to just those entires that match our index table.
+
+Indexing is REALLY COOL and it separates novice database users from intermediate database users. It can be challenging to use, but the core concept is not terribly complicated.
+
+Knowing how to implement indexing (i.e. being a database management system developer) is not important.
+
+Also, indexing does have downsides...
+
+- Every index table you include adds space / memory / storage
+- When updating tables (updating a row, inserting, deleting), you will also need to update *any* relevant index tables: this will cost extra time on each update AND it will cost extra "mental effort" for developers working on this
+- Not always good, can make *slower* worse for "homogenous" rows
+
+Not for this workshop, but in general, there are different kinds of indexes. Two common types: hashed indexes (this is what is in the workshop) and sorted indexes. Sorted indexes are actually much more common in the wild.

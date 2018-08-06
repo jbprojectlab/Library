@@ -1,0 +1,14 @@
+{
+  "name": "promises-cointel",
+  "version": "0.1.0",
+  "description": "",
+  "main": "exercise.js",
+  "scripts": {
+    "start": "nodemon exercise.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "manyline": "0.0.1"
+  }
+}

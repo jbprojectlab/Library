@@ -31,3 +31,5 @@
 ## Day 9: [Databases and Node](10-databases-and-node)
 
 ## Day 10: [ORMs](11-orms)
+
+## Day 11: [Promises](12-promises)

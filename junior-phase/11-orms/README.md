@@ -9,3 +9,9 @@
 - [🤝 Workshop](https://learn.fullstackacademy.com/workshop/5a68bdb4d749e900042aa7ee/landing)
 - [👾 Solution](Solution.Wikistack1)
 - [📺 Review](https://youtu.be/YNLTfTBZY7A)
+
+## Postwork: the review video above
+
+## Q & A
+
+- [📖 Notes](q-and-a-notes.md)

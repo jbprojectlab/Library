@@ -42,4 +42,4 @@ In addition to the review videos above...
 ## Q & A
 
 - [📖 Notes](q-and-a-notes.md)
-
+- [📺 Recording](https://youtu.be/ERB9yYewkI8)

@@ -38,3 +38,8 @@ In addition to the review videos above...
 - [📺 Review of promises in general](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmZBjhoMfHYJBvDs6qC0yx4) (~25 minutes, top priority)
 - [📖 Article on common promise mistakes](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html) (~30 minutes, secondary priority)
 - [📖 Article deep dive on promises](https://developers.google.com/web/fundamentals/primers/promises) (~30 minutes, secondary priority)
+
+## Q & A
+
+- [📖 Notes](q-and-a-notes.md)
+

@@ -35,3 +35,5 @@
 ## Day 11: [Promises](12-promises)
 
 ## Day 12: [Full Stack Applications](13-full-stack-applications)
+
+## Day 13: [Single Page Applications](14-single-page-applications)

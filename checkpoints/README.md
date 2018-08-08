@@ -17,3 +17,10 @@
 - [👾 Solution](01-data-structures)
 - [📖 Q & A notes](01-data-structures/q-and-a-notes.md)
 - [📺 Q & A recording](https://youtu.be/2whv3_egOIw)
+
+## Week 2
+
+### Express
+
+- [👾 Solution](02-express)
+- [📖 Q & A notes](02-express/q-and-a-notes.md)

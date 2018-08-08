@@ -28,3 +28,4 @@ Webpack | [📖][fsapp-3a] | [📺][fsapp-3b] | [🤝][fsapp-3c] | [👾][fsapp-
 ## Q & A
 
 - [📖 Notes](q-and-a-notes.md)
+- [📺 Recording](https://youtu.be/xVZaO-EDesQ)

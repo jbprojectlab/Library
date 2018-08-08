@@ -24,3 +24,7 @@ Webpack | [📖][fsapp-3a] | [📺][fsapp-3b] | [🤝][fsapp-3c] | [👾][fsapp-
 [fsapp-3e]: https://youtu.be/2dSP7tj3Lw0
 
 ## Postwork: the review video above
+
+## Q & A
+
+- [📖 Notes](q-and-a-notes.md)

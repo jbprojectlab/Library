@@ -24,3 +24,4 @@
 
 - [👾 Solution](02-express)
 - [📖 Q & A notes](02-express/q-and-a-notes.md)
+- [📺 Q & A recording](https://youtu.be/GH38OuEE0yc)

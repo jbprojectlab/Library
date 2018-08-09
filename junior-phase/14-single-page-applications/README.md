@@ -22,3 +22,7 @@ ES Modules | [🖼️][spa-2a] | [📺][spa-2b] | — | — | —
 In addition to the review video above...
 
 - [📖 Article on ES modules](http://2ality.com/2014/09/es6-modules-final.html) (secondary priority)
+
+## Q & A
+
+- [📖 Notes](q-and-a-notes.md)

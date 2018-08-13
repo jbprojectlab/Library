@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+li {
+  margin: 0.5rem 0;
+}
+
+h1 {
+  font-family: "Lobster", cursive;
+  font-size: 50px;
+}
+
+button {
+  border: none;
+  padding: 0.5rem 0.75rem;
+  font-size: 1rem;
+  box-shadow: 3px 3px #80808063;
+  cursor: pointer;
+}
+
+button:focus {
+  outline: none;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.container {
+  background-color: #eeeeee;
+  padding: 1.5rem 4rem;
+  margin: 1rem;
+}
+
+.puppylink {
+  cursor: pointer;
+  color: blue;
+}
+
+.puppylink:hover {
+  text-decoration: underline;
+}
+
+.list-unstyled {
+  list-style: none;
+  padding: 0;
+}

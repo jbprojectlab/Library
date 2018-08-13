@@ -9,7 +9,7 @@ Topic | Slides | Lecture | Workshop | Solution | Review
 Intro to React | [🖼️][react-1a] | [📺][react-1b] | [🔬][react-1c] | [👾][react-1d] | —
 State and Props | [🖼️][react-2a] | [📺][react-2b] | [🔬][react-2c] | [👾][react-2d] | —
 React Lifecycle | [🖼️][react-3a] | [📺][react-3b] | [🤝][react-3c] | [👾][react-3d] | —
-Full Stack Data Flow | [🖼️][react-4a-1] and [🖼️][react-4a-2] | [📺][react-4b] | [🤝][react-4c] | — | —
+Full Stack Data Flow | [🖼️][react-4a-1] and [🖼️][react-4a-2] | [📺][react-4b] | [🤝][react-4c] |[👾][react-4d] | [📺][react-4e]
 
 [react-1a]: 1-intro-to-react/Intro%20to%20React.pdf
 [react-1b]: https://youtu.be/RnbRy4Flh6o
@@ -27,6 +27,8 @@ Full Stack Data Flow | [🖼️][react-4a-1] and [🖼️][react-4a-2] | [📺][
 [react-4a-2]: 4-full-stack-data-flow/React%20Virtual%20DOM.pdf
 [react-4b]: https://youtu.be/oHgzOqxFmak
 [react-4c]: https://learn.fullstackacademy.com/workshop/5a6b85ed91fd3800043656e8/landing
+[react-4d]: 4-full-stack-data-flow/PairProject.Juke
+[react-4e]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmlDnS91P6zf3LrIu-ZPs2pG
 
 ## Postwork
 

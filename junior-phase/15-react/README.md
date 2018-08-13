@@ -47,3 +47,4 @@ Full Stack Data Flow | [🖼️][react-4a-1] and [🖼️][react-4a-2] | [📺][
 ## Q & A
 
 - [📖 Notes](q-and-a-notes.md)
+- [📺 Recording](https://youtu.be/UpY4dRlQ5zo)

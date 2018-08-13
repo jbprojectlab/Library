@@ -41,3 +41,5 @@
 ## Day 14: [React](15-react)
 
 ## Day 15: [🤝 Pair Project: Juke](https://learn.fullstackacademy.com/workshop/5a6b85ed91fd3800043656e8/landing)
+
+## Day 16: [Testing](16-testing)

@@ -26,3 +26,8 @@ Full Stack Testing | — | [📺][test-4b] | [🤝][test-4c] | [👾][test-4d] |
 [test-4b]: https://youtu.be/ZKZEsFG1piQ
 [test-4c]: https://learn.fullstackacademy.com/workshop/5a8ca32dc8194d000482bb58/landing
 [test-4d]: 4-full-stack-testing/PairExercise.TestingPuppybook
+
+## Postwork
+
+- [📖 Article on writing great unit tests](http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/) (~10 minutes, top priority)
+- [📖 Article on TDD in Javascript](https://code.tutsplus.com/tutorials/test-driven-javascript-development-in-practice--net-16246) (~40 minutes, secondary priority)

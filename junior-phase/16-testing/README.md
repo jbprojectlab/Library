@@ -31,3 +31,8 @@ Full Stack Testing | — | [📺][test-4b] | [🤝][test-4c] | [👾][test-4d] |
 
 - [📖 Article on writing great unit tests](http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/) (~10 minutes, top priority)
 - [📖 Article on TDD in Javascript](https://code.tutsplus.com/tutorials/test-driven-javascript-development-in-practice--net-16246) (~40 minutes, secondary priority)
+
+## Q & A
+
+- [📖 Notes](q-and-a-notes.md)
+- [📺 Recording](https://youtu.be/DRclslLARO0)

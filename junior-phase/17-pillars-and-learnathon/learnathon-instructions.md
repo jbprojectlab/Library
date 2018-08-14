@@ -24,5 +24,5 @@ The goals are exploration, fun, and knowledge. The presentations at the end will
 - [Slack](https://api.slack.com/slack-apps) | Slack API (Slackbot or Chatbot)
 - [Simple-peer](https://github.com/feross/simple-peer) | Peer-to-peer communication on the web, including video and audio
 - [Electron](https://electronjs.org/) | Make desktop applications with Javascript
-- [Twilio](https://www.twilio.com/) | Send or receive texts or phone calls from your server, supports many languages and environments, including [node](https://www.twilio.com/docs/sms/- quickstart/node)
+- [Twilio](https://www.twilio.com/) | Send or receive texts or phone calls from your server, supports many languages and environments, including [node](https://www.twilio.com/docs/sms/quickstart/node)
 - [Artyom](https://sdkcarlos.github.io/sites/artyom.html) | Speech to text and text to speech in the browser

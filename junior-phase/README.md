@@ -43,3 +43,5 @@
 ## Day 15: [🤝 Pair Project: Juke](https://learn.fullstackacademy.com/workshop/5a6b85ed91fd3800043656e8/landing)
 
 ## Day 16: [Testing](16-testing)
+
+## Day 17: [Pillars and Learnathon](17-pillars-and-learnathon)

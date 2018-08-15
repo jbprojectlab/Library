@@ -41,3 +41,4 @@
 
 - [👾 Starting point](https://github.com/FullstackAcademy/Checkpoint-Pillars)
 - [👾 Solution](04-pillars) (incomplete, missing solution to express tests)
+- [📺 Q & A recording](https://youtu.be/mO4smuxU65I)

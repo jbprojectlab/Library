@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Some Old Fashioned Forms</title>
+    <link href="https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c" rel="stylesheet">
+    <style>
+
+      body {
+        font-family: 'M PLUS Rounded 1c', sans-serif;
+        background-color:snow;
+        color:#333;
+      }
+      div {margin: 1em;}
+      input, button {padding: 1em;}
+
+    </style>
+  </head>
+  <body>
+
+    <div>
+      <h1>A web 1.0 form</h1>
+      <form method="post" action="/old-form" >
+        <input type="text" placeholder="Enter your name" name="firstname" />
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+
+    <div>
+      <h1>An AJAX form</h1>
+      <form id="ajax-form">
+        <input type="text" placeholder="Enter your name" name="firstname" />
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+
+    <script>
+      const form = document.getElementById('ajax-form')
+      form.addEventListener('submit', async (event) => {
+        event.preventDefault()
+        const firstname = event.target.firstname.value
+        const response = await fetch('/ajax-form', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({firstname})
+        })
+
+        const json = await response.json()
+        console.log(json)
+      })
+    </script>
+
+  </body>
+</html>

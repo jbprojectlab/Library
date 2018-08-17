@@ -2,7 +2,8 @@
 
 ## Prework: none
 
-[Morning Q&A](https://youtu.be/lxl_riRl3p0)
+* [Morning Q&A](https://youtu.be/lxl_riRl3p0)
+* [Founders AMA](https://youtu.be/dO05eB8IGls)
 
 ## Lesson
 

@@ -19,7 +19,7 @@ Websockets and Socket.io | [🖼️][ws-2a] | [📺][ws-2b] | [🤝][ws-2c] | [�
 [ws-2a]: 02-socket-io.pdf
 [ws-2b]: https://youtu.be/pBo1NJDBAwA
 [ws-2c]: https://learn.fullstackacademy.com/workshop/5ad0ef025ef2840004dc2beb/landing
-[ws-2d]: 
+[ws-2d]: wwww-solution
 [ws-2e]: https://www.youtube.com/playlist?list=PLF3vJJDZsN7L1zflPTS3VB8hsoU0_I2ZE&disable_polymer=true
 
 ## Postwork: the review video above

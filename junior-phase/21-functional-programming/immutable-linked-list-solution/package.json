@@ -1,0 +1,22 @@
+{
+  "name": "immutable-linked-list",
+  "version": "0.0.1",
+  "description": "Immutable Linked List",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./**/*.spec.js",
+    "test-watch": "mocha -w ./**/*.spec.js",
+    "flow": "flow; test $? -eq 0 -o $? -eq 2"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "sinon": "^2.2.0"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "rimraf": "^2.5.2"
+  }
+}

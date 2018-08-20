@@ -1,0 +1,37 @@
+{
+	"name": "jamda",
+	"version": "1.0.0",
+	"description": "a lab to practice FP basics",
+	"engines": {
+		"node": ">=8.0.0"
+	},
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha ./src/**/*.spec.js --watch",
+		"lint": "esw --ext .js,.jsx --ignore-path .gitignore --cache --format node_modules/eslint-formatter-pretty",
+		"lint-watch": "npm run lint -- --watch",
+		"prettify": "prettier --write \"src/**/*.{js,json,md}\""
+	},
+	"author": "Gabriel Lebec <glebec@gmail.com> (https://github.com/glebec)",
+	"license": "MIT",
+	"homepage": "https://github.com/FullstackAcademy/jamda#readme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/FullstackAcademy/jamda"
+	},
+	"bugs": "https://github.com/FullstackAcademy/jamda/issues",
+	"dependencies": {
+		"ramda": "^0.25.0"
+	},
+	"devDependencies": {
+		"babel-eslint": "^7.2.3",
+		"chai": "^4.1.2",
+		"eslint": "^3.19.0",
+		"eslint-config-fullstack": "^3.0.0",
+		"eslint-formatter-pretty": "^1.1.0",
+		"eslint-plugin-react": "^7.0.1",
+		"eslint-watch": "^3.1.0",
+		"mocha": "^5.0.5",
+		"prettier": "^1.12.1"
+	}
+}

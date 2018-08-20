@@ -1,0 +1,92 @@
+[
+    {
+        "id": 284,
+        "firstName": "Karen",
+        "lastName": "MacPherson",
+        "dateUpdated": "2017-02-24",
+        "vacationDays": 3,
+        "phase": "remote",
+        "role": "instructor"
+    },
+    {
+        "id": 193,
+        "firstName": "Gabriel",
+        "lastName": "Lebec",
+        "dateUpdated": "2018-03-22",
+        "vacationDays": 2,
+        "phase": "on-campus",
+        "role": "instructor"
+    },
+    {
+        "id": 459,
+        "firstName": "Tom",
+        "lastName": "Kelly",
+        "dateUpdated": "2018-01-23",
+        "vacationDays": 12,
+        "phase": "remote",
+        "role": "instructor"
+    },
+    {
+        "id": 813,
+        "firstName": "Cássio",
+        "lastName": "Antonio",
+        "dateUpdated": "2017-12-05",
+        "vacationDays": 8,
+        "phase": "remote",
+        "role": "instructor"
+    },
+    {
+        "id": 566,
+        "firstName": "Kate",
+        "lastName": "Humphry",
+        "dateUpdated": "2017-06-14",
+        "vacationDays": 5,
+        "phase": "on-campus",
+        "role": "instructor"
+    },
+    {
+        "id": 943,
+        "firstName": "Felicia",
+        "lastName": "Fellow",
+        "dateUpdated": "2017-01-29",
+        "vacationDays": 1,
+        "phase": "on-campus",
+        "role": "fellow"
+    },
+    {
+        "id": 193,
+        "firstName": "Gabriel",
+        "lastName": "Lebec",
+        "dateUpdated": "2016-09-30",
+        "vacationDays": 0,
+        "phase": "remote",
+        "role": "instructor"
+    },
+    {
+        "id": 348,
+        "firstName": "Ashi",
+        "lastName": "Krishnan",
+        "dateUpdated": "2017-07-15",
+        "vacationDays": 4,
+        "phase": "remote",
+        "role": "instructor"
+    },
+    {
+        "id": 736,
+        "firstName": "Feldman",
+        "lastName": "Fellowson",
+        "dateUpdated": "2017-01-29",
+        "vacationDays": 1,
+        "phase": "on-campus",
+        "role": "fellow"
+    },
+    {
+        "id": 813,
+        "firstName": "Cássio",
+        "lastName": "Antonio",
+        "dateUpdated": "2017-12-05",
+        "vacationDays": 8,
+        "phase": "remote",
+        "role": "instructor"
+    }
+]

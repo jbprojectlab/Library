@@ -1,0 +1,7 @@
+# YAML allows comments.
+root: true
+parser: babel-eslint
+extends: fullstack
+rules:
+    semi: [1, never]
+    id-length: 0

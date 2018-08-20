@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width initial-scale=1.0'>
+    <title></title>
+    <link rel="stylesheet" href="/style.css" />
+    <script defer src="/bundle.js"></script>
+  </head>
+  <body>
+    <div id="app"></div>
+
+    <div>
+      <form id="old-form">
+        <input type="text" name="foo" />
+        <button id="old-button" type="submit">Submut!!</button>
+      </form>
+    </div>
+    <script>
+      const oldButton = document.getElementById('old-button')
+      oldButton.addEventListener('click', (event) => {
+        event.preventDefault()
+        console.log('whoa, still did not refresh?!?!')
+      })
+    </script>
+  </body>
+</html>

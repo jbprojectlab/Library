@@ -16,3 +16,8 @@
 - [Jamda](https://www.youtube.com/watch?v=agzXoJYamVk)
 - [PointFree](https://www.youtube.com/watch?v=6JsIRaQUDtY&feature=youtu.be)
 - [Immutable Linked List (slightly dated)](https://www.youtube.com/watch?v=zBnGh8oGlow&feature=youtu.be)
+
+## Q & A
+
+- [📖 Notes](q-and-a-notes.md)
+- [📺 Recording](https://youtu.be/owG_EV0At3A)

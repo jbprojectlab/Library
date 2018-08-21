@@ -27,7 +27,7 @@
 - [👾 Starting point](https://github.com/FullstackAcademy/Checkpoint-Node-Express)
 - [👾 Solution](02-express)
 - [📖 Q & A notes](02-express/q-and-a-notes.md)
-- [📺 Q & A recording](https://youtu.be/GH38OuEE0yc)
+- [📺 Live review](https://youtu.be/GH38OuEE0yc)
 
 ## Week 3
 

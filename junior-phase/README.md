@@ -49,3 +49,9 @@
 ## Day 18: [React Router](18-react-router)
 
 ## Day 19: [React Forms](19-react-forms)
+
+## Day 20: [Sockets](20-sockets)
+
+## Day 21: [Functional Programming](21-functional-programming)
+
+## Day 22: [React Design Patterns](22-react-design-patterns)

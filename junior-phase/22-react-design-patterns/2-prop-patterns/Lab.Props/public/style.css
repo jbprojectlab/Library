@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.galery {
+  width: 618px;
+  border: solid 4px #555;
+}
+
+.galery header {
+  cursor: pointer;
+  padding: 6px;
+  background-color: #555;;
+  color: #fff;
+}
+
+.galery .content {
+  padding: 5px;
+  height: 340px;
+  overflow: auto;
+}
+
+.galery .content-hidden {
+  display: none;
+}

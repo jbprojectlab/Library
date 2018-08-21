@@ -55,3 +55,5 @@
 ## Day 21: [Functional Programming](21-functional-programming)
 
 ## Day 22: [React Design Patterns](22-react-design-patterns)
+
+## Day 23: [Redux](23-redux)

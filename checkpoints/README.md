@@ -40,5 +40,5 @@
 ### Pillars
 
 - [👾 Starting point](https://github.com/FullstackAcademy/Checkpoint-Pillars)
-- [👾 Solution](04-pillars) (incomplete, missing solution to express tests)
-- [📺 Q & A recording](https://youtu.be/mO4smuxU65I)
+- [👾 Solution](04-pillars) (incomplete, missing solution to express PUT tests)
+- 📺 Live review: [react and sequelize](https://youtu.be/mO4smuxU65I), [express get all, get one, post](https://youtu.be/gSP1X8ICKts)

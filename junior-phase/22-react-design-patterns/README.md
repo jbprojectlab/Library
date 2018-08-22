@@ -38,3 +38,7 @@ In addition to the review video playlist above, read up on the react docs, speci
 - [Composition vs Inheritance (and using `props.children`)](https://reactjs.org/docs/composition-vs-inheritance.html)
 - [Render Props](https://reactjs.org/docs/render-props.html)
 - [Higher-Order Components](https://reactjs.org/docs/higher-order-components.html)
+
+## Q & A
+
+- [📖 Notes](q-and-a-notes.md)

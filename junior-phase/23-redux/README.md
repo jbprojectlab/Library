@@ -8,7 +8,7 @@ Topic | Slides | Lecture | Workshop | Solution | Review
 -----:|:------:|:-------:|:--------:|:--------:|:-----:
 Intro to Redux | [🖼️][rdx-1a] | [📺][rdx-1b] | [🔬][rdx-1c] | [👾][rdx-1d] | —
 Redux Actions | [📖][rdx-2a] | [📺][rdx-2b] | [🤝][rdx-2c] | [👾][rdx-2d] | [📺][rdx-2e]
-Redux Middleware | [🖼️][rdx-3a] | — | [🔬][rdx-3c] | [👾][rdx-3d] | —
+Redux Middleware | [🖼️][rdx-3a] | [📺][rdx-3b] | [🔬][rdx-3c] | [👾][rdx-3d] | —
 
 [rdx-1a]: 1-intro-to-redux/Intro%20to%20Redux.pdf
 [rdx-1b]: https://youtu.be/DPb1CsS7QlQ
@@ -20,6 +20,7 @@ Redux Middleware | [🖼️][rdx-3a] | — | [🔬][rdx-3c] | [👾][rdx-3d] | �
 [rdx-2d]: 2-redux-actions/xoxo
 [rdx-2e]: https://youtu.be/zvRXx4qp8ZI
 [rdx-3a]: 3-redux-middleware/Redux%20Middleware.pdf
+[rdx-3b]: https://youtu.be/PmmPV_07pRk
 [rdx-3c]: https://learn.fullstackacademy.com/workshop/5a9058a9ba75f300049f97c2/landing
 [rdx-3d]: 3-redux-middleware/Lab.ReduxMiddleware
 

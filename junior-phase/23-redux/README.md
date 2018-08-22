@@ -25,6 +25,6 @@ Redux Middleware | [🖼️][rdx-3a] | — | [🔬][rdx-3c] | [👾][rdx-3d] | �
 
 ## Postwork
 
-In addition to the review video playlist above...
+In addition to the review video above...
 
 - [📺 Getting Started with Redux](https://egghead.io/lessons/react-redux-the-single-immutable-state-tree) by Dan Abramov (redux creator)—do lessons 1 through 7 only

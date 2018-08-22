@@ -42,3 +42,4 @@ In addition to the review video playlist above, read up on the react docs, speci
 ## Q & A
 
 - [📖 Notes](q-and-a-notes.md)
+- [📺 Recording](https://youtu.be/pONtE8Mb9Vk)

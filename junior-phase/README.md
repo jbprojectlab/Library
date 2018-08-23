@@ -59,3 +59,5 @@
 ## Day 23: [Redux](23-redux)
 
 ## Day 24: [React and Redux](24-react-and-redux)
+
+## Day 25: [🤝 Pair Project: StackChat](https://learn.fullstackacademy.com/workshop/5abcd72d09db4300049d2ccc/landing)

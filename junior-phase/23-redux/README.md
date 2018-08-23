@@ -33,3 +33,4 @@ In addition to the review video above...
 ## Q & A
 
 - [📖 Notes](q-and-a-notes.md)
+- [📺 Recording](https://youtu.be/Z60N41O-6uI)

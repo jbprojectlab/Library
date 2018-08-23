@@ -8,7 +8,7 @@ Topic | Slides | Lecture | Workshop | Solution | Review
 -----:|:------:|:-------:|:--------:|:--------:|:-----:
 Redux with React | [🖼️][rcrdx-1a] | [📺][rcrdx-1b] | [🔬][rcrdx-1c] | [👾][rcrdx-1d] | —
 react-redux | [📖][rcrdx-2a] | [📺][rcrdx-2b] | [🔬][rcrdx-2c-1] and [🤝][rcrdx-2c-2] | [👾][rcrdx-2d-1] and [👾][rcrdx-2d-2] | —
-Thunk Middleware | [🖼️][rcrdx-3a] | — | [🔬][rcrdx-3c] | [👾][rcrdx-3d] | —
+Thunk Middleware | [🖼️][rcrdx-3a] | [📺][rcrdx-3b] | [🔬][rcrdx-3c] | [👾][rcrdx-3d] | —
 
 [rcrdx-1a]: 1-redux-with-react/Redux%20with%20React.pdf
 [rcrdx-1b]: https://youtu.be/3plBC2QcmUA
@@ -21,6 +21,7 @@ Thunk Middleware | [🖼️][rcrdx-3a] | — | [🔬][rcrdx-3c] | [👾][rcrdx-3
 [rcrdx-2d-1]: 2-react-redux/Lab.Connect
 [rcrdx-2d-2]: 2-react-redux/PairExercise.ReduxGroceries
 [rcrdx-3a]: 3-thunk-middleware/Thunk%20Middleware.pdf
+[rcrdx-3c]: https://youtu.be/EsGCoa6om1s
 [rcrdx-3c]: https://learn.fullstackacademy.com/workshop/5ab17c6313abf90004cc71f7/landing
 [rcrdx-3d]: 3-thunk-middleware/Lab.Thunk
 

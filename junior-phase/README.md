@@ -64,3 +64,5 @@
 ## Day 24: [React and Redux](24-react-and-redux)
 
 ## Day 25: [Pair Project: StackChat](25-stackchat)
+
+## Day 26: [Full Circle](26-full-circle)

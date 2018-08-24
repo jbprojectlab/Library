@@ -63,7 +63,4 @@
 
 ## Day 24: [React and Redux](24-react-and-redux)
 
-## Day 25
-
-- [🤝 Pair Project: StackChat](https://learn.fullstackacademy.com/workshop/5abcd72d09db4300049d2ccc/landing)
-- [📺 StackChat review video playlist](https://www.youtube.com/playlist?list=PLx0iOsdUOUmk_yzrwLejLCOBaC5kkRsIm)
+## Day 25: [Pair Project: StackChat](25-stackchat)

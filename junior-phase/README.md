@@ -40,7 +40,10 @@
 
 ## Day 14: [React](15-react)
 
-## Day 15: [🤝 Pair Project: Juke](https://learn.fullstackacademy.com/workshop/5a6b85ed91fd3800043656e8/landing)
+## Day 15
+
+- [🤝 Pair Project: Juke](https://learn.fullstackacademy.com/workshop/5a6b85ed91fd3800043656e8/landing)
+- [📺 Juke review video playlist](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlDnS91P6zf3LrIu-ZPs2pG)
 
 ## Day 16: [Testing](16-testing)
 
@@ -60,4 +63,7 @@
 
 ## Day 24: [React and Redux](24-react-and-redux)
 
-## Day 25: [🤝 Pair Project: StackChat](https://learn.fullstackacademy.com/workshop/5abcd72d09db4300049d2ccc/landing)
+## Day 25
+
+- [🤝 Pair Project: StackChat](https://learn.fullstackacademy.com/workshop/5abcd72d09db4300049d2ccc/landing)
+- [📺 StackChat review video playlist](https://www.youtube.com/playlist?list=PLx0iOsdUOUmk_yzrwLejLCOBaC5kkRsIm)

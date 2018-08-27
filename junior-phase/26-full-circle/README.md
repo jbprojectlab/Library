@@ -14,6 +14,7 @@ Login Logout | [🖼️][fc-4a] | — | [🤝][fc-3c] | — | — |
 [fc-1a]: 1-redux-rounding-out-part-1/lecture-notes.md
 [fc-1c]: https://learn.fullstackacademy.com/workshop/5afafc7d88c81b000415947d/landing
 [fc-1d]: 1-redux-rounding-out-part-1/Lab.CombineReducers
+[fc-2a]: 2-redux-rounding-out-part-2/lecture-notes.md
 [fc-2c]: https://learn.fullstackacademy.com/workshop/5ac1d1ba26613b000477768c/landing
 [fc-3a]: 3-express-session/Express%20Sessions.pdf
 [fc-3c]: https://learn.fullstackacademy.com/workshop/5a5e07923f699c00040db778/landing

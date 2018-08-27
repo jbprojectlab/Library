@@ -9,7 +9,7 @@ Topic | Slides | Lecture | Workshop | Solution | Review
 Redux Rounding Out Part I | [📖][fc-1a] | [📺][fc-1b] | [🔬][fc-1c] | [👾][fc-1d] | [📺][fc-1e] |
 Redux Rounding Out Part II | [📖][fc-2a] | [📺][fc-2b] | [🔬][fc-2c] | [👾][fc-2d] | [📺][fc-2e] |
 Express Session | [🖼️][fc-3a] | [📺][fc-3b] | [🔬][fc-3c] | — | — |
-Login Logout | [🖼️][fc-4a] | [📺][fc-4b] | [🤝][fc-3c] | — | — |
+Login Logout | [🖼️][fc-4a] | [📺][fc-4b] | [🤝][fc-4c] | — | — |
 
 [fc-1a]: 1-redux-rounding-out-part-1/lecture-notes.md
 [fc-1b]: https://youtu.be/EyhYXNcYOgw
@@ -27,3 +27,5 @@ Login Logout | [🖼️][fc-4a] | [📺][fc-4b] | [🤝][fc-3c] | — | — |
 [fc-4a]: 4-login-logout/Login%20and%20Logout.pdf
 [fc-4b]: https://youtu.be/5ZKLk5viXcI
 [fc-4c]: https://learn.fullstackacademy.com/workshop/5a5e151f15ef7a0004702fda/landing
+
+## Postwork: none

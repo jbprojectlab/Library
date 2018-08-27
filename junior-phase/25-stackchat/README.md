@@ -4,3 +4,4 @@
 - [👾 Solution code (from video)](PairProject.StackChat)
 - [📺 Review video playlist](https://www.youtube.com/playlist?list=PLx0iOsdUOUmk_yzrwLejLCOBaC5kkRsIm)
 - [📖 Q & notes](q-and-a-notes.md)
+- [📺 Q & recording](https://youtu.be/Tc0ZNW-Xztg)

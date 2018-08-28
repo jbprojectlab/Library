@@ -29,3 +29,7 @@ Login Logout | [🖼️][fc-4a] | [📺][fc-4b] | [🤝][fc-4c] | — | — |
 [fc-4c]: https://learn.fullstackacademy.com/workshop/5a5e151f15ef7a0004702fda/landing
 
 ## Postwork: none
+
+## Q & A
+
+- [📖 Notes](q-and-a-notes.md)

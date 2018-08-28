@@ -66,3 +66,5 @@
 ## Day 25: [Pair Project: StackChat](25-stackchat)
 
 ## Day 26: [Full Circle](26-full-circle)
+
+## Day 27: [Authentication and Passport](27-authentication-and-passport)

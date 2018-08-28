@@ -68,3 +68,5 @@
 ## Day 26: [Full Circle](26-full-circle)
 
 ## Day 27: [Authentication and Passport](27-authentication-and-passport)
+
+## Day 28: [Senior Enrichment Project](https://github.com/FullstackAcademy/senior-enrichment)

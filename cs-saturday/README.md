@@ -4,6 +4,7 @@ Topic | Slides | Lecture | Workshop | Solution | Review
 -----:|:------:|:-------:|:--------:|:--------:|:-----:
 Compilers | [🖼️][cs-1a] | [📺][cs-1b] | [🤝][cs-1c] | [👾][cs-1d] | [📺][cs-1e]
 FQL | [📖][cs-2a] | [📺][cs-2b] | [🤝][cs-2c] | [👾][cs-2d] | [📺][cs-2e]
+Security | — | [📺][cs-3b] | — | — | —
 
 [cs-1a]: 1-compilers/Compilers.pdf
 [cs-1b]: https://youtu.be/-P-u4i2YiT4
@@ -15,3 +16,4 @@ FQL | [📖][cs-2a] | [📺][cs-2b] | [🤝][cs-2c] | [👾][cs-2d] | [📺][cs-
 [cs-2c]: https://github.com/FullstackAcademy/functional-query-language
 [cs-2d]: 2-fql/functional-query-language
 [cs-2e]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmlSH4w8SesMV76bkNigdNcm
+[cs-3b]: https://zoom.us/recording/play/Sfy7DvMWayUtOriJ8AbiuMQUjcR9p3sRa7ANgXd5kzI1YRilC28x7sDvS2jlnZiW

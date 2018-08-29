@@ -21,3 +21,8 @@ OAuth & Passport | [🖼️][ap-2a] | [📺][ap-2b] | [🤝][ap-2c] | [👾][ap-
 [ap-2e]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmnxTxprGETJqdRFYPhKErPq
 
 ## Postwork: none
+
+## Q & A
+
+- [📖 Notes](q-and-a-notes.md)
+- [📺 Recording](https://youtu.be/ixs0YZTRhac)

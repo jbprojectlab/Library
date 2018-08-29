@@ -34,6 +34,7 @@
 ### Sequelize
 
 - [👾 Starting point](https://github.com/FullstackAcademy/Checkpoint-Sequelize)
+- [👾 Solution](03-sequelize)
 
 ## Week 4
 
@@ -42,3 +43,16 @@
 - [👾 Starting point](https://github.com/FullstackAcademy/Checkpoint-Pillars)
 - [👾 Solution](04-pillars) (incomplete, missing solution to express PUT tests)
 - 📺 Live review: [react and sequelize](https://youtu.be/mO4smuxU65I), [express get all, get one, post](https://youtu.be/gSP1X8ICKts)
+
+### React
+
+- [👾 Starting point](https://github.com/FullstackAcademy/Checkpoint-React)
+- [👾 Solution](05-react)
+
+## Week 5
+
+### Redux
+
+- [👾 Starting point](https://github.com/FullstackAcademy/Checkpoint-Redux)
+- [👾 Solution](06-redux)
+

@@ -69,4 +69,7 @@
 
 ## Day 27: [Authentication and Passport](27-authentication-and-passport)
 
-## Day 28: [Senior Enrichment Project](https://github.com/FullstackAcademy/senior-enrichment)
+## Day 28
+
+- [Senior Enrichment Project](https://github.com/FullstackAcademy/senior-enrichment)
+- [Curriculum Review](28-curriculum-review) (Part 1)

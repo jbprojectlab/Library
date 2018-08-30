@@ -4,6 +4,7 @@ import axios from 'axios';
 const RECEIVE_USERS = 'RECEIVE_USERS';
 const RECEIVE_ONE_USER = 'RECEIVE_ONE_USER';
 const INSERT_USER = 'INSERT_USER';
+const REMOVE_ONE_USER = 'REMOVE_ONE_USER';
 
 // action creators
 const receiveUsers = users => ({
@@ -19,6 +20,11 @@ const receiveOneUser = user => ({
 const insertUser = user => ({
   type: INSERT_USER,
   user
+});
+
+const removeOneUser = userId => ({
+  type: REMOVE_ONE_USER,
+  userId
 });
 
 // thunk creators
@@ -41,6 +47,21 @@ export const postUser = userData => {
     const {data: user} = await axios.post('/api/users', userData);
     dispatch(insertUser(user));
     // whatever we return here will be available to whatever code dispatches this thunk
+    return user;
+  };
+};
+
+export const deleteOneUser = id => {
+  return async dispatch => {
+    await axios.delete(`/api/users/${id}`);
+    dispatch(removeOneUser(id));
+  };
+};
+
+export const putUser = (id, updateData) => {
+  return async dispatch => {
+    const {data: user} = await axios.put(`/api/users/${id}`, updateData);
+    dispatch(receiveOneUser(user));
     return user;
   };
 };
@@ -72,6 +93,8 @@ const usersReducer = (state = initialState, action) => {
       }
     case INSERT_USER:
       return [...state, action.user];
+    case REMOVE_ONE_USER:
+      return state.filter(eachUser => eachUser.id !== action.userId);
     default:
       return state;
   }

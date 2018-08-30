@@ -30,4 +30,24 @@ router.post('/', async (req, res, next) => {
   }
 });
 
+router.delete('/:id', async (req, res, next) => {
+  try {
+    const user = await User.findById(req.params.id);
+    await user.destroy();
+    res.status(204).end();
+  } catch (error) {
+    next(error);
+  }
+});
+
+router.put('/:id', async (req, res, next) => {
+  try {
+    const user = await User.findById(req.params.id);
+    const updatedUser = await user.update(req.body);
+    res.json(updatedUser);
+  } catch (error) {
+    next(error);
+  }
+});
+
 module.exports = router;

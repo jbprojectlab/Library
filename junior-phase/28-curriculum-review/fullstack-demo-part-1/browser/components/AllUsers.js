@@ -20,7 +20,7 @@ class AllUsers extends Component {
           </div>
         ))}
       </div>
-    )
+    );
   }
 }
 

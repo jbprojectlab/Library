@@ -1,4 +1,6 @@
 # Curriculum Review
 
-- [👾 Part I Demo Code](fullstack-demo-part-1)
-- [📺 Part I Recording](https://youtu.be/fIS6QpW_LEw)
+- [👾 Part I demo code](fullstack-demo-part-1)
+- [📺 Part I recording](https://youtu.be/fIS6QpW_LEw)
+- [📖 Part I Q & A notes](fullstack-demo-part-1/q-and-a-notes.md)
+- [📺 Part I Q & A recording](https://youtu.be/NDaigxma1qc)

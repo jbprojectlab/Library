@@ -13,3 +13,8 @@
 - Demo recording: [📺 single user and add user](https://youtu.be/Ux2DceMXEss), [📺 remove user and edit user](https://youtu.be/TZaqtActzRQ)
 - [📖 Q & A notes](fullstack-demo-part-2/q-and-a-notes.md)
 - [📺 Q & A recording](https://youtu.be/nahP44HA67s)
+
+## Part III 
+
+- [👾 Demo code](fullstack-demo-part-3)
+- [📺 Demo recording](https://youtu.be/6ZvUauKXkt4)

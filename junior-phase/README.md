@@ -68,7 +68,7 @@
 ## Day 26
 
 - [Full Circle](26-full-circle)
-- Intro to Senior Phase: [🖼️ slides](Intro to%20Senior%20Phase.pdf)
+- Intro to Senior Phase: [🖼️ slides](Intro%20to%20Senior%20Phase.pdf)
 
 ## Day 27: [Authentication and Passport](27-authentication-and-passport)
 

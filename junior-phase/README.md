@@ -65,7 +65,10 @@
 
 ## Day 25: [Pair Project: StackChat](25-stackchat)
 
-## Day 26: [Full Circle](26-full-circle)
+## Day 26
+
+- [Full Circle](26-full-circle)
+- Intro to Senior Phase: [🖼️ slides](Intro to%20Senior%20Phase.pdf)
 
 ## Day 27: [Authentication and Passport](27-authentication-and-passport)
 
@@ -73,3 +76,13 @@
 
 - [Senior Enrichment Project](https://github.com/FullstackAcademy/senior-enrichment)
 - [Curriculum Review](28-curriculum-review) (Part 1)
+
+## Day 29
+
+- [Senior Enrichment Project](https://github.com/FullstackAcademy/senior-enrichment)
+- [Curriculum Review](28-curriculum-review) (Part 2)
+
+## Day 30
+
+- [Senior Enrichment Project](https://github.com/FullstackAcademy/senior-enrichment)
+- [Curriculum Review](28-curriculum-review) (Part 3)

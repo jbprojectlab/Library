@@ -3,6 +3,7 @@ const router = require('express').Router()
 const HttpError = require('../utils/HttpError')
 const User = require('../db/user.model')
 const Story = require('../db/story.model')
+const gateekepers = require('../utils/gatekeeper.middleware');
 
 // for any /users/:id routes, this piece of middleware
 // will be executed, and put the user on `req.requestedUser`
@@ -54,7 +55,7 @@ router.put('/:id', (req, res, next) => {
     .catch(next)
 })
 
-router.delete('/:id', (req, res, next) => {
+router.delete('/:id', gateekepers.sameUserOrAdmin, (req, res, next) => {
   req.requestedUser.destroy()
     .then(() => {
       res.status(204).end()

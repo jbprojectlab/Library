@@ -1,4 +1,5 @@
 # Deployment
 
-- [📖 lecture notes](lecture-notes.md)
-- [👾 lecture demo code](lecture-demo)
+- [📖 Lecture notes](lecture-notes.md)
+- [👾 Lecture demo code](lecture-demo)
+- [📺 Lecture demo recording](https://youtu.be/Lzh16GXcJxI)

@@ -3,6 +3,7 @@ const router = require('express').Router()
 const HttpError = require('../utils/HttpError')
 const Story = require('../db/story.model')
 const User = require('../db/user.model')
+const gatekeepers = require('../utils/gatekeeper.middleware');
 
 // for any /stories/:id routes, this piece of middleware
 // will be executed, and put the story on `req.story`
@@ -30,7 +31,7 @@ router.get('/', (req, res, next) => {
     .catch(next)
 })
 
-router.post('/', (req, res, next) => {
+router.post('/', gatekeepers.authorOrAdmin, (req, res, next) => {
   Story.create(req.body)
     .then((story) => {
       return story.reload({
@@ -59,7 +60,7 @@ router.get('/:id', (req, res, next) => {
     .catch(next)
 })
 
-router.put('/:id', (req, res, next) => {
+router.put('/:id', gatekeepers.authorOrAdmin, (req, res, next) => {
   req.story.update(req.body)
     .then((story) => {
       return story.reload({
@@ -75,7 +76,7 @@ router.put('/:id', (req, res, next) => {
     .catch(next)
 })
 
-router.delete('/:id', (req, res, next) => {
+router.delete('/:id', gatekeepers.authorOrAdmin, (req, res, next) => {
   req.story.destroy()
     .then(() => {
       res.status(204).end()

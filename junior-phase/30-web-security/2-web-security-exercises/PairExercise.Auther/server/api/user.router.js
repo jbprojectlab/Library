@@ -3,7 +3,7 @@ const router = require('express').Router()
 const HttpError = require('../utils/HttpError')
 const User = require('../db/user.model')
 const Story = require('../db/story.model')
-const gateekepers = require('../utils/gatekeeper.middleware');
+const gatekeepers = require('../utils/gatekeeper.middleware');
 
 // for any /users/:id routes, this piece of middleware
 // will be executed, and put the user on `req.requestedUser`
@@ -26,7 +26,7 @@ router.get('/', (req, res, next) => {
     .catch(next)
 })
 
-router.post('/', (req, res, next) => {
+router.post('/', gatekeepers.admin, gatekeepers.removeAdminUpdate, (req, res, next) => {
   User.create(req.body)
     .then((user) => {
       res.status(201).json(user)
@@ -34,7 +34,7 @@ router.post('/', (req, res, next) => {
     .catch(next)
 })
 
-router.get('/:id', (req, res, next) => {
+router.get('/:id', gatekeepers.loggedIn, (req, res, next) => {
   req.requestedUser.reload({
     include: [{
       model: Story,
@@ -47,7 +47,7 @@ router.get('/:id', (req, res, next) => {
     .catch(next)
 })
 
-router.put('/:id', (req, res, next) => {
+router.put('/:id', gatekeepers.sameUserOrAdmin, gatekeepers.removeAdminUpdate, (req, res, next) => {
   req.requestedUser.update(req.body)
     .then((user) => {
       res.json(user)
@@ -55,7 +55,7 @@ router.put('/:id', (req, res, next) => {
     .catch(next)
 })
 
-router.delete('/:id', gateekepers.sameUserOrAdmin, (req, res, next) => {
+router.delete('/:id', gatekeepers.sameUserOrAdmin, (req, res, next) => {
   req.requestedUser.destroy()
     .then(() => {
       res.status(204).end()

@@ -86,3 +86,7 @@
 
 - [Senior Enrichment Project](https://github.com/FullstackAcademy/senior-enrichment)
 - [Curriculum Review](28-curriculum-review) (Part 3)
+
+## Review Week
+
+- [Deployment](29-deployment)

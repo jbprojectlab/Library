@@ -91,3 +91,5 @@
 
 - [Deployment](29-deployment)
 - [Web Security](30-web-security)
+- [Junior phase Q & A notes](q-and-a-notes.md)
+- [Junior phase Q & A recording](https://youtu.be/1oYLA_jhm4I)

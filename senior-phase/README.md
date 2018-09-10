@@ -1,4 +1,4 @@
-# 🐛 Senior Phase
+# 🦋 Senior Phase
 
 [Intro to Senior Phase](../junior-phase/Intro%20to%20Senior%20Phase.pdf). A high level outline of what takes place in senior phase.
 

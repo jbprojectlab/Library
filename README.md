@@ -23,4 +23,6 @@ We recommend you *clone* (without forking) this repo and pull as changes come in
 
 ### [🐛 Junior Phase](junior-phase)
 
+### [🦋 Senior Phase](senior-phase)
+
 ### [💾 CS Saturday](cs-saturday)

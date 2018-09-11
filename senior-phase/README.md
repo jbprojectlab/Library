@@ -6,4 +6,9 @@
 
 - Senior Phase Survival Guide: lecture [🖼️ slides](Senior%20Phase%20Survival%20Guide.pdf) and [📺 recording](https://youtu.be/rKsFwTo3N94)
 - How to Work Together: lecture [🖼️ slides](How%20to%20Work%20Together.pdf) and [📺 recording](https://youtu.be/_3gP1YD7Xiw)
-- Start of [Grace Shopper](1-grace-shopper)
+- [Grace Shopper](1-grace-shopper) (satart)
+- [Technical interview prep](technical-interview-prep) (start)
+
+## Day 2
+
+- [Technical interview prep](technical-interview-prep) (Big O Lecture)

@@ -14,6 +14,8 @@ We recommend you *clone* (without forking) this repo and pull as changes come in
 - [📖 Fullstack student / alumni blogs list](https://github.com/FullstackAcademy/student-blogs)
 - [📖 Some code wars problems, categorized](https://gist.github.com/joedotjs/7614f84264bf20e49d39)
 - [📖 Book recommendations](https://gist.github.com/glebec/c8139b51feb86005504810b8f58a696c)
+- [📺 Boilermaker Guided Tour](https://www.youtube.com/playlist?list=PLx0iOsdUOUmn7D5XL4mRUftn8hvAJGs8H)
+- [📖 Common teamwork processes](senior-phase/teamwork-processes)
 
 ---
 

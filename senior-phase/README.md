@@ -1,6 +1,6 @@
 # 🦋 Senior Phase
 
-[Intro to Senior Phase](../junior-phase/Intro%20to%20Senior%20Phase.pdf). A high level outline of what takes place in senior phase.
+[Intro to Senior Phase](../junior-phase/Intro%20to%20Senior%20Phase.pdf). A high level outline of what takes place in senior phase. In terms of career success, there's also [this very important workshop outlining everything](https://learn.fullstackacademy.com/workshop/585179c6a2b61e00044d8627/landing).
 
 ## Day 1
 
@@ -12,3 +12,34 @@
 ## Day 2
 
 - [Technical interview prep](technical-interview-prep) (Big O Lecture)
+- [Grace Shopper](1-grace-shopper) (work)
+
+## Day 3
+
+- [REACTO: String Search](https://gist.github.com/jessdelacruzsantos/50799a8889bfe37f5b61b3d8225bd1b4)
+- [Grace Shopper](1-grace-shopper) (work)
+
+## Day 4
+
+- [REACTO: Dictionary Word Finder](https://gist.github.com/johnnybee4e/ee38cf3d1435e3543e524fce0745a34e)
+- [Grace Shopper](1-grace-shopper) (work)
+
+## Day 5
+
+- [REACTO: String Permutations](https://gist.github.com/blakespencer/8c24d9d9a73add28017b3651ca55a9d3)
+- [Grace Shopper](1-grace-shopper) (work)
+
+## Day 6
+
+- [Technical interview prep](technical-interview-prep) (Data Structures Lecture)
+- [Grace Shopper](1-grace-shopper) (work)
+
+## Day 7
+
+- [REACTO: Priority Queue](https://gist.github.com/johnnybee4e/9479d535cc8f35d6f6bef2c2a32a09ba)
+- [Grace Shopper](1-grace-shopper) (work)
+
+## Day 8
+
+- [REACTO: Tree Traversal](https://gist.github.com/omriBernstein/ad9604607497f33fcd911daa5797c682)
+- [Grace Shopper](1-grace-shopper) (What and How to Present Lecture)

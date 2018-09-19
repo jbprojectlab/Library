@@ -6,40 +6,42 @@
 
 - Senior Phase Survival Guide: lecture [🖼️ slides](Senior%20Phase%20Survival%20Guide.pdf) and [📺 recording](https://youtu.be/rKsFwTo3N94)
 - How to Work Together: lecture [🖼️ slides](How%20to%20Work%20Together.pdf) and [📺 recording](https://youtu.be/_3gP1YD7Xiw)
-- [Grace Shopper](1-grace-shopper) (start)
-- [Technical interview prep](technical-interview-prep) (start)
+- [Grace Shopper](1-grace-shopper) (Intro lecture and project start)
+- [Technical interview prep](technical-interview-prep) (Intro to REACTO lecture)
 
 ## Day 2
 
-- [Technical interview prep](technical-interview-prep) (Big O Lecture)
-- [Grace Shopper](1-grace-shopper) (work)
+- [Technical interview prep](technical-interview-prep) (Big O lecture)
+- [Grace Shopper](1-grace-shopper) (project work)
 
 ## Day 3
 
 - [REACTO: String Search](https://gist.github.com/jessdelacruzsantos/50799a8889bfe37f5b61b3d8225bd1b4)
-- [Grace Shopper](1-grace-shopper) (work)
+- [Grace Shopper](1-grace-shopper) (project work)
 
 ## Day 4
 
 - [REACTO: Dictionary Word Finder](https://gist.github.com/johnnybee4e/ee38cf3d1435e3543e524fce0745a34e)
-- [Grace Shopper](1-grace-shopper) (work)
+- [Grace Shopper](1-grace-shopper) (project work)
 
 ## Day 5
 
 - [REACTO: String Permutations](https://gist.github.com/blakespencer/8c24d9d9a73add28017b3651ca55a9d3)
-- [Grace Shopper](1-grace-shopper) (work)
+- [Grace Shopper](1-grace-shopper) (project work)
 
 ## Day 6
 
-- [Technical interview prep](technical-interview-prep) (Data Structures Lecture)
-- [Grace Shopper](1-grace-shopper) (work)
+- [Technical interview prep](technical-interview-prep) (Data Structures lecture)
+- [Grace Shopper](1-grace-shopper) (project work)
 
 ## Day 7
 
 - [REACTO: Priority Queue](https://gist.github.com/johnnybee4e/9479d535cc8f35d6f6bef2c2a32a09ba)
-- [Grace Shopper](1-grace-shopper) (work)
+- [Grace Shopper](1-grace-shopper) (project work)
 
 ## Day 8
 
 - [REACTO: Tree Traversal](https://gist.github.com/omriBernstein/ad9604607497f33fcd911daa5797c682)
-- [Grace Shopper](1-grace-shopper) (What and How to Present Lecture)
+- [Grace Shopper](1-grace-shopper) (What and How to Present lecture)
+- [Stackathon](2-stackathon) (Intro lecture and project start)
+- [Career Success Video: Creating a "Developer Story"](https://youtu.be/ex1VSIO14mU)

@@ -45,3 +45,22 @@
 - [Grace Shopper](1-grace-shopper) (What and How to Present lecture)
 - [Stackathon](2-stackathon) (Intro lecture and project start)
 - [Career Success Video: Creating a "Developer Story"](https://youtu.be/ex1VSIO14mU)
+
+## Day 9
+
+- [REACTO: Prefix Search](https://gist.github.com/jennysihua/9c772c299ff523ccb5a7ba2d5f209ae4)
+- [Stackathon](2-stackathon) (project work)
+
+## Day 10
+
+- [REACTO: Find Path in Graph](https://youtu.be/TUa5c51vdZI)
+- [Stackathon](2-stackathon) (project work)
+
+## Day 11
+
+- [Technical interview prep](technical-interview-prep) (Optimization lecture)
+- [Stackathon](2-stackathon) (project work and presentations)
+
+## Day 12
+
+- [REACTO: Determine Repeats](https://gist.github.com/omriBernstein/2b71572dbf72d45ea2cb8d0b42c70a4b)

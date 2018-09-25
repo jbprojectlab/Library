@@ -64,3 +64,4 @@
 ## Day 12
 
 - [REACTO: Determine Repeats](https://gist.github.com/omriBernstein/2b71572dbf72d45ea2cb8d0b42c70a4b)
+- [Capstone](3-capstone) (Intro lecture and project start)

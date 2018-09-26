@@ -65,3 +65,8 @@
 
 - [REACTO: Determine Repeats](https://gist.github.com/omriBernstein/2b71572dbf72d45ea2cb8d0b42c70a4b)
 - [Capstone](3-capstone) (Intro lecture and project start)
+
+## Day 13
+
+- [REACTO: Intersection](https://gist.github.com/omriBernstein/93341de9d2cbb24b986b355eb6187940)
+- [Capstone](3-capstone) (project work)

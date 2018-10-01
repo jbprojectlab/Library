@@ -70,3 +70,19 @@
 
 - [REACTO: Intersection](https://gist.github.com/omriBernstein/93341de9d2cbb24b986b355eb6187940)
 - [Capstone](3-capstone) (project work)
+
+## Day 14
+
+- [REACTO: Subset Sum](https://gist.github.com/Na-Ya/418fb8da50b132cd2e67600cbd42e4b8)
+- [Capstone](3-capstone) (project work)
+
+## Day 15
+
+- [REACTO: Longest Increasing Subsequence](https://gist.github.com/panktip15/4de96d61b9a9820e627fedd213eb8c96)
+- [Capstone](3-capstone) (project work)
+
+## Day 16
+
+- [Technical interview prep](technical-interview-prep) (Review So Far and Numbers lecture)
+- [Capstone](3-capstone) (project work)
+

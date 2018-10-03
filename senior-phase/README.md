@@ -86,3 +86,12 @@
 - [Technical interview prep](technical-interview-prep) (Review So Far and Numbers lecture)
 - [Capstone](3-capstone) (project work)
 
+## Day 17
+
+- [REACTO: Decimal to and from Binary](https://gist.github.com/Na-Ya/b0bd910ce39c7d7f8b1ea5a332d63a8b)
+- [Capstone](3-capstone) (project work)
+
+## Day 18
+
+- [REACTO: Clock Minute Adder](https://gist.github.com/ariellegordon/09322bf8f10431aca015b0f2b22c03c5)
+- [Capstone](3-capstone) (project work)

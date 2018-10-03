@@ -18,6 +18,7 @@ We recommend you *clone* (without forking) this repo and pull as changes come in
 - [📖 Common teamwork processes](senior-phase/teamwork-processes)
 - [📖 Undoing changes in git](https://www.atlassian.com/git/tutorials/undoing-changes)
 - [📖 REST mistakes](https://gist.github.com/omriBernstein/9f9c5f39afacc84faf44503fd64369cb)
+- [📖 All your projects](senior-phase/all-your-projects)
 
 ---
 

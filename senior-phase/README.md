@@ -2,6 +2,8 @@
 
 [Intro to Senior Phase](../junior-phase/Intro%20to%20Senior%20Phase.pdf). A high level outline of what takes place in senior phase. In terms of career success, there's also [this very important workshop outlining everything](https://learn.fullstackacademy.com/workshop/585179c6a2b61e00044d8627/landing).
 
+Oh and see [here](senior-phase/all-your-projects) for links to all the projects you all made.
+
 ## Day 1
 
 - Senior Phase Survival Guide: lecture [🖼️ slides](Senior%20Phase%20Survival%20Guide.pdf) and [📺 recording](https://youtu.be/rKsFwTo3N94)

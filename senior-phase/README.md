@@ -97,3 +97,18 @@ Oh and see [here](senior-phase/all-your-projects) for links to all the projects 
 
 - [REACTO: Clock Minute Adder](https://gist.github.com/ariellegordon/09322bf8f10431aca015b0f2b22c03c5)
 - [Capstone](3-capstone) (project work)
+
+## Day 19
+
+- [REACTO: Sudoku Validator](https://gist.github.com/omriBernstein/1b0314e22c97a7bb3f079c4b57900fa4)
+- [Capstone](3-capstone) (project work)
+
+## Day 20
+
+- [REACTO: Addition](https://gist.github.com/johnnybee4e/beace2c56cd6104bab64e397a5aec6ed)
+- [Capstone](3-capstone) (project work)
+
+## Day 21
+
+- [Technical interview prep](technical-interview-prep) (Functional Programming lecture)
+- [Capstone](3-capstone) (project work)

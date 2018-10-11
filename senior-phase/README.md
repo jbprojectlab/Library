@@ -112,3 +112,18 @@ Oh and see [here](senior-phase/all-your-projects) for links to all the projects 
 
 - [Technical interview prep](technical-interview-prep) (Functional Programming lecture)
 - [Capstone](3-capstone) (project work)
+
+## Day 22
+
+- [REACTO: Spy](https://gist.github.com/ariellegordon/726b80cace27015b82d8e9ace1468e4b)
+- [Capstone](3-capstone) (project work)
+
+## Day 23
+
+- [REACTO: Curry](https://gist.github.com/rkamalesh14/6229da2ac339a6f77ab37ccc986d0cea)
+- [Capstone](3-capstone) (project work)
+
+## Day 24
+
+- [REACTO: Immutable BST](https://gist.github.com/ariellegordon/6def0bf04f679c60c639072d5407d4ba)
+- [Capstone](3-capstone) (Demo Day Logistics and Presentation lectures, project work)

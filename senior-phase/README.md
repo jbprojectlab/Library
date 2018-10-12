@@ -127,3 +127,8 @@ Oh and see [here](senior-phase/all-your-projects) for links to all the projects 
 
 - [REACTO: Immutable BST](https://gist.github.com/ariellegordon/6def0bf04f679c60c639072d5407d4ba)
 - [Capstone](3-capstone) (Demo Day Logistics and Presentation lectures, project work)
+
+## Day 25
+
+- [REACTO: Composition and Inheritance](https://gist.github.com/blakespencer/3e3e9bdce4630acf72f55b0d616bf7ed)
+- [Capstone](3-capstone) (Demo Day Screencast with Camtasia 3 lecture and screencast work)

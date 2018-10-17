@@ -63,7 +63,7 @@
 - Flash cards and quiz yourself (here's some [neat software for that](https://apps.ankiweb.net/))
 - [YDKJS](https://github.com/getify/You-Dont-Know-JS)! (concept + trivia)
 - Flight week 1 in career success workshop has URLS at the bottom (e.g. [here](https://learn.fullstackacademy.com/workshop/585179c6a2b61e00044d8627/content/58517e0fb8822c0004224fb1/text))
-- ¡nterfeud! slides (link coming soon) (concept + trivia)
+- [¡nterfeud! slides](../\302\241nterfeud!/) (concept + trivia)
 - AlgoExpert + Codewars + Interview Cake + Project Euler + LeetCode (algorithms)
 - Cracking on the Coding Interview (algorithms)
 - Pramp (mock interviews with random people)

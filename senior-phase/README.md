@@ -132,3 +132,15 @@ Oh and see [here](senior-phase/all-your-projects) for links to all the projects 
 
 - [REACTO: Composition and Inheritance](https://gist.github.com/blakespencer/3e3e9bdce4630acf72f55b0d616bf7ed)
 - [Capstone](3-capstone) (Demo Day Screencast with Camtasia 3 lecture and screencast work)
+
+## Day 26
+
+- Demo Day!
+
+## Day 27
+
+- [REACTO: Balanced Brackets](https://gist.github.com/msseeley/268d9f01e2882ab8f2b8467ca1db072c)
+
+## Day 28
+
+- [REACTO: Rain Water Collector](https://gist.github.com/lmorale4/6ad0929f687bdadafca2bba83e2567a0)

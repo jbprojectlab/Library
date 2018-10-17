@@ -43,8 +43,30 @@
 - But be careful you're not just choosing what's comfortable
 - And / or research the companies you are interest, and focus on what matters to THEM
 
-...
-
 ## If I'm stuck checklist...
 
 - Repeat the prompt / clarify / ask questions
+- Like before, talk about what you DO know
+- Remember this is natural / expected
+- If you need silence, ask for it
+
+*After the fact...*
+
+- Maybe send them a message later if your figured something out
+- Reach out to your peers / me / fellows
+- Rehahs it, try to play it out differently
+- Learn from it
+
+## Helpful tips / how to prepare
+
+- Look up in advance about a company's interview questions (e.g. in GlassDoor)
+- Flash cards and quiz yourself (here's some [neat software for that](https://apps.ankiweb.net/))
+- [YDKJS](https://github.com/getify/You-Dont-Know-JS)! (concept + trivia)
+- Flight week 1 in career success workshop has URLS at the bottom (e.g. [here](https://learn.fullstackacademy.com/workshop/585179c6a2b61e00044d8627/content/58517e0fb8822c0004224fb1/text))
+- ¡nterfeud! slides (link coming soon) (concept + trivia)
+- AlgoExpert + Codewars + Interview Cake + Project Euler + LeetCode (algorithms)
+- Cracking on the Coding Interview (algorithms)
+- Pramp (mock interviews with random people)
+- Side projects!
+- Talk at a meetup
+- ANYTHING!

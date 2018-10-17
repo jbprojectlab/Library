@@ -27,5 +27,5 @@
 - Animate UI: [📺 presentation](https://youtu.be/D6dZewoIFJI) and [👾 repo](https://github.com/riccjohn/react-ui-animations) (John)
 - Cheat for Fortune: [📺 presentation](https://youtu.be/eCnyYRgVTG4) and [👾 repo](https://github.com/danglebert/CheatForFortune) (Dan)
 - Tagger: [📺 presentation](https://youtu.be/5zEVf_4NsA4), no repo (Morgan)
-- Stepper io: [📺 presentation](https://youtu.be/bvj3dOitsOE) and [👾 repo](https://github.com/JamesByrd1265/Jam_Canvas) (James)
-- Book Track (*📺 presentation link coming soon*) and [👾 repo](https://github.com/gittieatlas/book-track) (Gittie)
+- Stepper io: [📺 presentation](https://youtu.be/5GsWJMfiD_M) and [👾 repo](https://github.com/JamesByrd1265/Jam_Canvas) (James)
+- Book Track [📺 presentation](https://youtu.be/AJ9CLEpj6w8) and [👾 repo](https://github.com/gittieatlas/book-track) (Gittie)

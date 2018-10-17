@@ -7,3 +7,4 @@
 - Big O, Data Structures, and Optimization review [📖 notes](week-4-numbers/review-so-far-notes.md) and 📺 recording [part 1](https://youtu.be/xnCzTcp87zM) and [part 2](https://youtu.be/s7tm2IC_8C0)
 - Numbers lecture [📖 notes](week-4-numbers/lecture-notes.md) and [📺 recording](https://youtu.be/ooS_6m2NOQY)
 - Functional Programming lecture [📖 notes](week-5-functional-programming/lecture-notes.md) and [📺 recording](https://youtu.be/SYLuihfJW0E)
+- Concluding Q & A [📖 notes](week-6-q-and-a/lecture-notes.md) and [📺 recording](https://youtu.be/S2PhNCkL4eo)

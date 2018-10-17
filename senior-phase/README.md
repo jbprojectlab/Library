@@ -144,3 +144,4 @@ Oh and see [here](senior-phase/all-your-projects) for links to all the projects 
 ## Day 28
 
 - [REACTO: Rain Water Collector](https://gist.github.com/lmorale4/6ad0929f687bdadafca2bba83e2567a0)
+- [Technical interview prep](technical-interview-prep) (Concluding Q & A)

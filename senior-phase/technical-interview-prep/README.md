@@ -8,3 +8,4 @@
 - Numbers lecture [📖 notes](week-4-numbers/lecture-notes.md) and [📺 recording](https://youtu.be/ooS_6m2NOQY)
 - Functional Programming lecture [📖 notes](week-5-functional-programming/lecture-notes.md) and [📺 recording](https://youtu.be/SYLuihfJW0E)
 - Concluding Q & A [📖 notes](week-6-q-and-a/lecture-notes.md) and [📺 recording](https://youtu.be/S2PhNCkL4eo)
+- Software Architecture Interview demo [📺 recording](https://youtu.be/2WU56ea8FNU)

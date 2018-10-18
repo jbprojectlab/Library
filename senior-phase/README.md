@@ -144,8 +144,9 @@ Oh and see [here](senior-phase/all-your-projects) for links to all the projects 
 ## Day 28
 
 - [REACTO: Rain Water Collector](https://gist.github.com/lmorale4/6ad0929f687bdadafca2bba83e2567a0)
-- [Technical interview prep](technical-interview-prep) (Concluding Q & A)
+- [Technical interview prep](technical-interview-prep) (Concluding Q & A lecture)
 
 ## Day 29
 
 - [REACTO: Reverse Phone Book](https://gist.github.com/omriBernstein/785383bf66ceefc9f494a7bb37a26ffb)
+- [Technical interview prep](technical-interview-prep) (Software Architecture Interview demo)

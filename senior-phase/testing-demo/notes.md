@@ -1,0 +1,4 @@
+- made enzyme-setup.js
+- `npm i -D jest babel-jest regenerator-runtime enzyme enzyme-adapter-react-16`
+- changed package.json to add a script `"test": "jest ./browser"` and some jest config at the bottom `"jest": "setupTestFrameworkScriptFile": "<rootDir>enzyme-setup.js" `
+- from here we can import enzyme and use it in .test.js files and jest will run it

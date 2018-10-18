@@ -150,3 +150,4 @@ Oh and see [here](senior-phase/all-your-projects) for links to all the projects 
 
 - [REACTO: Reverse Phone Book](https://gist.github.com/omriBernstein/785383bf66ceefc9f494a7bb37a26ffb)
 - [Technical interview prep](technical-interview-prep) (Software Architecture Interview demo)
+- Messy Demo: React Testing with Jest and Enzyme [👾 code](testing-demo/fullstack-demo-part-4), [📖 notes](testing-demo/notes.md), and [📺 recording](https://youtu.be/8sc_7sWkyGo)
